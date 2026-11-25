@@ -1,2 +1,3 @@
 # AppServicosAgroMobile
 
+O Aplicativo AgroService foi desenvolvido na disciplina de Programação Mobile  do professor Vinicius Bortolini (SIAPE 1279203) pela aluna Eloisa Janiszewski. O objetivo da atividade foi desenvolver um aplicativo em flutter utilizando a inteligência artificial(IA). O AgroService permite cadastrar e contratar serviços relacionados ao agro como colheitas, análise de solo, pulverização e desbrote de tabaco. O usuário pode avaliar, contratar, confirmar ou recusar serviço, editar, cadastrar e excluir ao inserir todas as informações necessárias. Instituto Federal do Paraná - Campus União da Vitória 
